@@ -147,10 +147,13 @@ Prefab:
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
+<<<<<<< HEAD
     - target: {fileID: 2300000, guid: 2c8ed0af7fc4abd44be428a9817efa6c, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: c4e92201dd94b614ba3f0a9e13c204c6, type: 2}
+=======
+>>>>>>> parent of c145d83... Merge pull request #1 from e1b14080/invisibleobject
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 2c8ed0af7fc4abd44be428a9817efa6c, type: 3}
   m_IsPrefabParent: 0
